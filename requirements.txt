@@ -1,4 +1,8 @@
 git+https://github.com/dolfies/discord.py-self.git
-Flask
 colorama
-python-dotenv
+discord.py==2.3.2
+colorama==0.4.6
+python-dotenv==1.0.0
+flask==2.3.3
+asyncio
+aiohttp
